@@ -8,8 +8,8 @@ body {
 
 .space-given{
   width: auto;
-  padding-top: 40px;
-  background-color: #dce8ec;
+  padding-top: 80px;
+  /* background-color: #dce8ec; */
 }
 
 h1,
@@ -568,7 +568,7 @@ a:hover {
 }
 
 .btn.btn-a, .btn.btn-b {
-  border-radius: 0;
+  border-radius: 10px;
   padding: 1rem 3rem;
   letter-spacing: .05rem;
 }
