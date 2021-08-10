@@ -1,6 +1,6 @@
 <?php
  
- $cv_email="Caresskakka@gmail.com";
+ $cv_email="thewallghana@gmail.com";
 
  function spamcheck($field)
   {
