@@ -10,6 +10,37 @@ body {
   padding-top:40px;
 }
 
+/* Newsletter */
+#wrapper{
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  margin: 0 auto;
+}
+
+#leftPan{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-box-pack: center;
+  text-align: center;
+  margin-right: 50px;
+  width: 600px;
+
+}
+
+#rightPan{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-box-pack: center;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#joinBtn{
+  margin: 15px;
+}
+
+/* end Newsletter */
 h1,
 h2,
 h3,
@@ -307,7 +338,7 @@ a:hover {
 
 .title-a {
   font-size: 1.7rem;
-  font-weight: 600;
+  font-weight: 60title-a0;
 }
 
 .title-link {
